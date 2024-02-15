@@ -42,8 +42,8 @@
                           authors at affordable prices for you!
                     </p>
 
-                          <br><br> 
-                          <div class="container">
+          <br><br> 
+                    <div class="container">
                           <h3>Feedback Form</h3>
 
                             <form action>
@@ -67,13 +67,10 @@
                               <input type="submit" value="Submit">
 
                             </form>
-                          </div>
+                    </div>
                 </h2>
             </div>
         </body>
         </html>
     </head>
 </html>
-
-
-  
